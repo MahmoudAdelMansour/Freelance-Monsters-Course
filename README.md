@@ -11,7 +11,6 @@
 - [Resources And Platforms](#resources-and-platforms)
 - [Support Us](#support-us)
 - [Contributing](#contributing)
-- [Our Goroup](#our_group)
 - [License](#license)
 
 ## The Basics 🥇
