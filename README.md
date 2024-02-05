@@ -5,7 +5,7 @@
 
 ## My Awesome Project
 
-- [The Basics](#thebasics)
+- [The Basics](#the_basics)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
