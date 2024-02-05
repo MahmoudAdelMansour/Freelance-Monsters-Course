@@ -3,11 +3,11 @@
 
 ![Monsters Gate Repo Cover.](https://i.ibb.co/h9rTXTr/409548442-6406707239433414-6626640852723569492-n.jpg)
 
-## My Awesome Project
+## Table Of Content
 
-- [The Basics](#the-basics)
-- [Essential Skills](#essential-skills)
-- [Labor Market](#labor-market)
+- [The Basics](#the-basics-)
+- [Essential Skills](#essential-skills-)
+- [Labor Market](#labor-market-)
 - [Resources And Platforms](#resources-and-platforms)
 - [Support Us](#support-us)
 - [Contributing](#contributing)
