@@ -5,21 +5,23 @@
 
 ## My Awesome Project
 
-- [Introduction](#introduction)
+- [The Basics](#thebasics)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
-mahmoudmahmoud
-mahmoud
-mahmoud
-mahmoud
-mahmoud
-## Installation
-mahmoud
+## The Basics
+- [ ] What's Freelance And And What I Need To Start ? 🥇
+- [ ] Install My Basics Tools 🥈
+- [ ] Identifying My Skills and Determining the Key Skill to Begin 🥉
+- [ ] Identify the Top Three Skills I Can Offer My Client 🤺
+- [ ] What's Cv And Resume and which difference 📎
+- [ ] What Is ATS and How to Successfully Submit My CV through It. 🤖
+- [ ] Build The Right Portfolio For Your Business 🛄
+## Labor Market
+- [ ] What's Freelance And And What I Need To Start ? 🥇
 mahmoud
 mahmoud
 mahmoud
